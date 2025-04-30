@@ -49,8 +49,8 @@
 ![Screenshot 2025-04-22 111141](https://github.com/user-attachments/assets/0c6b17d6-7d91-4d70-801a-09ff158baa6d)
 ![Screenshot 2025-04-22 111950](https://github.com/user-attachments/assets/a8f071f2-be06-4e93-a253-458c280d3421)
 
-### Name:Hitheshhwaran A R
-### Register Number:212224040118
+### Name: MUKESH.B
+### Register Number: 212223230128
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
